@@ -1,9 +1,9 @@
-name = "my-project"
+name = "flareact-test"
 type = "webpack"
-account_id = ""
+account_id = "85af1e020abb4a9c4bc60111d556f19e"
 workers_dev = true
-route = ""
-zone_id = ""
+route = "/flareact-test"
+zone_id = "3c706e46261ea2df30c251fe4409fc94"
 webpack_config = "node_modules/flareact/webpack"
 compatibility_date = "2022-10-07"
 
